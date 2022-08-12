@@ -1,5 +1,6 @@
 # Pontoon &mdash; Mozilla's Localization Platform
 
+
 Pontoon is a translation management system used and developed by the
 [Mozilla localization community](https://pontoon.mozilla.org/). It
 specializes in open source localization that is driven by the community and
